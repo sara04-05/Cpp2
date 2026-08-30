@@ -44,8 +44,7 @@ int main()
 
     faktorieli(5, ptr); // n = 5, rez = ptr;
 
-    cout << *ptr
-         << endl;
+    cout << *ptr << endl;
 
     int size = 10;
 
